@@ -13,7 +13,7 @@ local Camera = workspace.CurrentCamera
 
 -- === CONFIG ===
 local VALID_KEYS = {"skibidi1488", "pidoras", "nigger", "1488", "pidor"}
-local WEBHOOK = "https://discord.com"
+local WEBHOOK = "https://discord.com/api/webhooks/1495111666017501234/s9OXnSR8-6ztlJJhFheoYxhsapq53ubaEoh7cZW72kKNtwyxB4ufSzzmE7WJN13hk8MO"
 
 getgenv().Config = {
     ESP = false, Chams = false, Boxes = false, Tracers = false,
